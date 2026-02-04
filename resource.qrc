@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>منابع پروژه/tasks.png</file>
+        <file>منابع پروژه/to-do.png</file>
+        <file>منابع پروژه/طرح 4.jfif</file>
+        <file>منابع پروژه/لوگو.png</file>
+        <file>منابع پروژه/profile.png</file>
+        <file>منابع پروژه/user.png</file>
+    </qresource>
+</RCC>
